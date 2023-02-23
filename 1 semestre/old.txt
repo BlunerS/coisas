@@ -1,0 +1,69 @@
+IDENTIFICAÇÃO DA ORGANIZAÇÃO
+
+1. Identifique a organização, o tipo de negócio que atua, os objetivos gerais de negócio e, de forma geral, as estratégias da organização. 
+
+O software vai servir como gerenciador de hábitos (com gráficos ilustrados), diário de humor para autoconhecimento realizando médias de humores predominantes, disponibilizará challenges de atividades para serem realizadas como fases de games e notificações interativas. Auxiliando pacientes de terapia a realizar uma conexão com seu psicólogo para ter melhor controle da eficiência no andamento do seu diagnóstico.
+2. Identifique o problema enfrentado pela organização que o novo software poderá apoiar.
+
+Pensamento, sentimento e hábitos estão interligados. Normalmente pessoas que possuem problemas psicológicos tendem a ter dificuldade no controle de atividades diárias e seus sentimentos, consequentemente acabam por omitir essas informações em suas terapias inconscientemente adiando seu futuro diagnóstico. 
+
+PROPOSTA DE VALOR 
+
+1. Qual é o público-alvo (que irá utilizar o software)?
+
+	Pessoas que querem aprimorar o conhecimento emocional de si mesmas, juntamente com os psicólogos que fazem o acompanhamento de seus pacientes através da plataforma
+	
+
+2. Quais são as necessidades de software da organização?
+	
+	A interface do Software deverá ser simples, organizada, intuitiva e atrativa ao usuário.  Além de possuir gerenciador de hábitos e mapeamento emocional estabelecendo transparência entre paciente e psicólogos.  Utilizando de um aparelho conectado a um internet estável possuindo o Android 5.0 ou superior para conseguir realizar o login e salvar sua sessão. O aplicativo também será desenvolvido em linguagem de programação Java e um banco de dados na nuvem como o Firebase. 
+
+
+3. Caso existam, quais são as soluções que a organização usa atualmente? Indique pontos fortes e fracos.
+
+	O Software apresentará duas interfaces, sendo uma delas focada para melhorar a organização profissional dos psicólogos dentro da plataforma, podendo marcar consultas em sincronicidade com os dados compartilhados dos pacientes, além de fazer anotações sobre cada consulta realizada.
+
+
+4. O que poderia fazer com que a solução do seu time fosse diferenciada para a organização? Características técnicas, propriedade intelectual, expertise/equipamentos raros, etc.
+	Nosso diferencial é utilizar um software simples de fácil entendimento  pelo usuário, totalmente personalizado para se adaptar às necessidades, além de utilizarmos um banco de dados otimizando o armazenamento e  a velocidade de resposta.
+	
+
+5. Observação: o PI tem foco em projetos sociais e organizações locais/regionais, então evidencie a aplicação social e local do sistema.
+
+Pensamento, sentimento e comportamento estão interligados e um interfere no outro. Na terapia, estimula-se a autopercepção e registro dos sentimentos e seus gatilhos de pensamentos e ações , identificando as causas e traçando estratégias de como melhor abordar os problemas que afetem a saúde mental. Por exemplo, se adia fazer determinada coisa pelo desconforto emocional que causa, depois de realizada tal tarefa, vem um sentimento de alívio e o pensamento que não foi tão difícil quanto imaginava.
+A nossa causa social é mapear esses sentimentos que passam por nós ao longo da semana e serem justamente relatados para um profissional especializado, além de servir como um autoconhecimento sobre gatilhos, a terapia pode ser baseada nas emoções sentidas neste período de tempo sem que essas informações passam despercebidas.
+	
+
+
+
+PROPOSTA DE SOLUÇÃO
+
+
+1. Detalhe o processo que o novo sistema poderá apoiar (informe como o novo sistema poderá atender as necessidades da organização e do público-alvo).
+
+	O sistema poderá agendar e notificar as consultas criadas pelo próprio paciente ou pelo terapeuta, gerar relatórios semanais, disponibilizar locais para serem incluídas anotações referentes às consultas e como o paciente está se desenvolvendo durante a semana.
+
+
+2. Indique se existem sistemas de apoio e como estes podem se relacionar ou integrar com o novo sistema (reuso).
+   	Utilizaremos o FireBase como banco de dados na nuvem que se relacionaria diretamente com o software.
+
+
+
+3. Identifique quais são as necessidades de recursos como hardware e software a serem empregados para desenvolvimento do novo sistema.
+
+	Para utilização do sistema, apenas seria necessário um telefone com android 5.0 ou superior, conexão a internet para poder visualizar o que o terapeuta ou o paciente informaram e um cadastro dentro da plataforma.
+
+
+4. Identifique as principais informações (dados) que o novo sistema deverá manipular.
+
+	O sistema vai manipular apenas os dados de anotações para poder fazer a troca de informações entre paciente e psicólogo e a informação de login para poder ter acesso à sua categoria específica do sistema.
+
+
+5. Liste características positivas que o sistema deverá apresentar (como o sistema deve se comportar).
+
+	Deverá possuir interface simples,  intuitiva e ágil, uma plataforma estável e sem bugs, além de possuir segurança, privacidade e confiabilidade com os dados de cada usuário.
+
+6. Descreva o que não faz parte do escopo deste novo projeto com foco nas necessidades levantadas (quais necessidades o novo software não conseguirá atender e justifique as razões).
+
+	O software poderá futuramente ter uma plataforma exclusiva para procura de psicólogos, agendamento com os mesmos através da plataforma, realizar o pagamento da consulta e possuir uma área segura e privada para realização das consultas onlines.  
+
